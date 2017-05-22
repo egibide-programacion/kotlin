@@ -12,6 +12,6 @@ El programa mostrará un menú como el siguiente:
 4. Listado detallado de empresas y empleados.
 5. Salir
 
-El programa principal pedirá al usuario todos los datos necesarios y creará los objetos que hagan falta.
+El programa principal pedirá al usuario todos los datos necesarios y creará en memoria los objetos que hagan falta.
 
 > NOTA: No hay límite en el número de empresas ni de empleados.

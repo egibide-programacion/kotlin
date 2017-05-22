@@ -15,4 +15,8 @@ El programa usará un interfaz gráfico creado en Swing y podrá realizar las si
 
 > NOTA: No hay límite en el número de alumnos y asignaturas que podemos almacenar.
 
-> Opcional: Almacenar los datos en una base de datos SQLite.
+> OPCIONAL: Almacenar los datos en una base de datos SQLite.
+
+> En [este repositorio](https://github.com/xerial/sqlite-jdbc) está disponible el driver JDBC para SQLite.
+
+> Para crear y editar la base de datos usaremos [DB Browser for SQLite](http://sqlitebrowser.org/).
