@@ -9,6 +9,6 @@ Curso para aprender [Kotlin](https://kotlinlang.org/) y, de paso, repasar Java.
 
 Pasos a seguir:
 
-1. Hacer un [fork del repositorio](https://github.com/Egibide-PROGRAMACION/kotlin#fork-destination-box) para poder subir los ejercicios hechos.
+1. Hacer un fork del repositorio para poder subir los ejercicios hechos.
 1. Actualizar [IntelliJ IDEA CE](https://www.jetbrains.com/idea/download/) a la versión 2017.1.3 o superior.
 1. Para repasar, hacer los ejercicios primero en Java y después en Kotlin.
