@@ -2,6 +2,8 @@
 
 La organización del Maratón Martin Fiz nos ha pedido que, para la próxima edición, les desarrollemos una aplicación de gestión de corredores y tiempos de carrera.
 
+![Interfaz de usuario](maraton.png)
+
 Nos han proporcionado una base de datos inicial alojada en el fichero [corredores.sqlite](./corredores.sqlite) que podéis abrir y editar con el programa [DB Browser for SQLite](http://sqlitebrowser.org/).
 
 Puntos a desarrollar:
