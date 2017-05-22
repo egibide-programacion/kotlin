@@ -5,7 +5,7 @@
 Curso para aprender [Kotlin](https://kotlinlang.org/) y, de paso, repasar Java.
 
 - Este repositorio contiene las [presentaciones en PDF](./01_presentaciones/) y los [ejercicios](./02_ejercicios/).
-- Los vídeos con la parte teórica están en esta [lista de reproducción](https://www.youtube.com/playlist?list=PLxL0ASjNO0ggH-k3AeNh9H8E8EXxj-1XC) de YouTube. Son 38 minutos en total, no hay excusa.
+- Los vídeos con la parte teórica están en esta [lista de reproducción](https://www.youtube.com/playlist?list=PLxL0ASjNO0ggH-k3AeNh9H8E8EXxj-1XC) de YouTube. Son 38 minutos en total.
 
 ## Pasos a seguir
 
